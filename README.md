@@ -2,7 +2,7 @@
 Implementation of the Agile and scrum frameworks of CMPG323
 
 
-Project2 - API Development
+Project2 - API Development  https://github.com/WesleyKrulle/Project-2/blob/main/README.md
 Project3 - Standards and Patterns
 Project4 - Testing and RPA
 Project5 - Reporting and monitoring
