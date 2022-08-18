@@ -4,8 +4,7 @@ Implementation of the Agile and scrum frameworks of CMPG323
 
 Project2 - (API Development  https) : //github.com/WesleyKrulle/Project-2
 
-Project3 - (Standards and Patterns https): //github.com/WesleyKrulle/CMPG323-Project3_31865259
-
+Project3 - (Standards and Patterns https): https://github.com/WesleyKrulle/CMPG323-Project3_31865259
 
 Project4 - (Testing and RPA): https://github.com/WesleyKrulle/CMPG323-Project4-31865259
 
